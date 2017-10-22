@@ -1,0 +1,21 @@
+1508681070085	geckodriver	INFO	geckodriver 0.19.0
+1508681070101	geckodriver	INFO	Listening on 127.0.0.1:63587
+1508681072351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Alec\\AppData\\Local\\Temp\\rust_mozprofile.3F2X1GOGB0IT"
+1508681074254	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508681076097	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Alec\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6084] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6084] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508681085755	Marionette	INFO	Listening on port 63595
+1508681086356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508681086474	Marionette	DEBUG	Register listener.js for window 6442450945
+1508681145868	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508681146097	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508681146097	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508681147397	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.jp/"
+1508681148554	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.jp/"
+1508681515177	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.jp/"
+1508681515338	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.jp/"
+1508681515341	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.jp/"
+1508681515787	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.jp/search?source=hp&q=python+%E7%88%AC%E8%99%AB&oq=Python&gs_l=psy-ab.1.2.0l10.324184.324213.0.366887.6.2.0.0.0.0.164.164.0j1.1.0....0...1.1.64.psy-ab..5.1.163....0.44TFTe6RLMQ"
+1508681516345	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.jp/search?source=hp&q=python+%E7%88%AC%E8%99%AB&oq=Python&gs_l=psy-ab.1.2.0l10.324184.324213.0.366887.6.2.0.0.0.0.164.164.0j1.1.0....0...1.1.64.psy-ab..5.1.163....0.44TFTe6RLMQ"
