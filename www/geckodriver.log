@@ -19,3 +19,10 @@ Unable to read VR Path Registry from C:\Users\Alec\AppData\Local\openvr\openvrpa
 1508681515341	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.jp/"
 1508681515787	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.jp/search?source=hp&q=python+%E7%88%AC%E8%99%AB&oq=Python&gs_l=psy-ab.1.2.0l10.324184.324213.0.366887.6.2.0.0.0.0.164.164.0j1.1.0....0...1.1.64.psy-ab..5.1.163....0.44TFTe6RLMQ"
 1508681516345	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.jp/search?source=hp&q=python+%E7%88%AC%E8%99%AB&oq=Python&gs_l=psy-ab.1.2.0l10.324184.324213.0.366887.6.2.0.0.0.0.164.164.0j1.1.0....0...1.1.64.psy-ab..5.1.163....0.44TFTe6RLMQ"
+Unable to read VR Path Registry from C:\Users\Alec\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2100] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2100] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Alec\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4716] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4716] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Alec\AppData\Local\openvr\openvrpaths.vrpath
