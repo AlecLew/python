@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+<meta charset="shift_JIS">
+<title>SAMPLE</title>
+</head>
+<html>
+<body>
+<form name="form1">
+  <input type="range" name="slider" value = "50" min="0" max="100">
+  <br>
+  <input type="button" value="outPUT" onClick="showSlider()">
+</form>
+<script>
+  function showSlider(){
+    alert ("value output" + document.form1.slider.value);
+  }
+
+</script>
+</body>
+
+</html>
